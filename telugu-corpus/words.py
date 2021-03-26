@@ -52,7 +52,7 @@ for k in range(0, sentence_len):
     for sent in doc.sentences:
         for word in sent.words:
             for search_word in words_to_search:
-                if search_word in word.text:
+                if search_word in word.text or search_word[:-1] in word.text or search_word[:-2] in word.text or search_word[:-3] in word.text:
                     with open("search_words.txt", "a", encoding="utf8") as text_file:
                         print(sentences[k], file=text_file)
                         print(roman_sentences[k], file=text_file)
