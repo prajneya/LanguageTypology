@@ -1,6 +1,6 @@
 import stanza
 
-words_to_search = ["वाना", "वाया", "वाई"]
+words_to_search = ["वाना", "वाया", "वाई", "करवा"]
 
 with open("dev_hi.txt", 'r', encoding="utf8") as f:
     sentences = f.readlines()
