@@ -1,10 +1,10 @@
 # Langugage Typology: Causative Constructions
 
-This is a repository for the course project of LTU, maintained by Prajneya Kumar and Jayant Panwar. This README serves as a manual to navigate the repository, if you intend to look at a summary of actual work done, take a look at ```LTU_Midterm.pdf```
+This is a repository for the course project of LTU, maintained by Prajneya Kumar and Jayant Panwar. This README serves as a manual to navigate the repository, if you intend to look at a summary of actual work done, take a look at ```LTU_Midterm.pdf``` as well ass ```LTU_Final_Project.pdf```.
 
 ## Usage
 
-To keep track of work done so far, please consider looking at ```LTU_Midterm.pdf``` in the root directory.
+To keep track of work done so far, please consider looking at ```LTU_Midterm.pdf``` as well ass ```LTU_Final_Project.pdf``` in the root directory.
 
 ### English
 
